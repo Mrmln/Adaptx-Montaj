@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76ea086600f958340b6a35648f96e293, type: 3}
   m_Name: MainConfig
   m_EditorClassIdentifier: Assembly-CSharp::GlobalSettings
+  mainWoodMaterial: {fileID: 2100000, guid: 0262ae7b3ccab3f4ca8f65ab8aefec28, type: 2}
   lincoPrefab: {fileID: 3280705895541163551, guid: 86245128dc1014d4b8f6571a273aac80, type: 3}
   pimPrefab: {fileID: 8224904136725662189, guid: f6757652b76626d4eaa26724669b99e2, type: 3}
+  rafPimiPrefab: {fileID: 0}
+  ayarliAyakPrefab: {fileID: 0}
+  civiPrefab: {fileID: 0}
+  askilikFlansiPrefab: {fileID: 0}
